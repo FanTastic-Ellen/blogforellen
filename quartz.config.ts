@@ -7,7 +7,12 @@ import * as Plugin from "./quartz/plugins"
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
 const config: QuartzConfig = {
-  configuration: {
+  siteMetadata: {
+    name: "Ellen Zhang",
+    description: "Fan's lovely Quartz blog 💖",
+    siteUrl: "https://ellenz.space",
+  },
+    configuration: {
     pageTitle: "Quartz 4",
     pageTitleSuffix: "",
     enableSPA: true,
@@ -16,7 +21,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "https://ellenz.space",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
