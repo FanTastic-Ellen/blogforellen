@@ -1,0 +1,15 @@
+[submodule "themes/cango"]
+	path = themes/cango
+	url = https://github.com/jpanther/congo.git
+[submodule "Documents/blog/muffin blog for hugo/muffin-blog/themes/hugo-PaperMod"]
+	path = Documents/blog/muffin blog for hugo/muffin-blog/themes/hugo-PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "Documents/blog/muffin blog for hugo/muffin-blog/themes/PaperMod"]
+	path = Documents/blog/muffin blog for hugo/muffin-blog/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "Documents/blog/muffin blog for hugo/themes/hugo-coder"]
+	path = Documents/blog/muffin blog for hugo/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "Documents/blog/muffin blog for hugo/muffin-blog/themes/hugo-coder"]
+	path = Documents/blog/muffin blog for hugo/muffin-blog/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
